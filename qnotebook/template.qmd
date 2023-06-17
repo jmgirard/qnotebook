@@ -1,0 +1,11 @@
+---
+title: "Untitled"
+format:
+  qnotebook-html: default
+author: Jeffrey Girard
+date: last-modified
+---
+
+```{r, setup}
+# Load packages
+```
